@@ -2,6 +2,7 @@
   "name": "code",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://fabianserrano1.github.io/Header-Gathsession/",
   "type": "module",
   "scripts": {
     "dev": "vite",

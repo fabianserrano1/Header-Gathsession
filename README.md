@@ -1,34 +1,21 @@
-# Header Hero SPA - Proyecto CSS
+# Header-Gathsession
 
-Este proyecto es un **header-hero** para una página web de un negocio tipo SPA.  
-Se ha creado siguiendo el diseño que nos dieron en Figma y el PDF de referencia.
+Proyecto de práctica del curso, creado con **HTML, Sass y Vite**.
 
----
+Descripción: Este proyecto es un **header-hero** para una página web, siguiendo un diseño de Figma. Es solo una práctica para aprender a usar Vite y Sass.
 
-## Qué incluye el proyecto
+Cómo usarlo: 
+1) Clonar el repositorio: 
+`git clone https://github.com/fabianserrano1/Header-Gathsession.git` 
 
-- HTML y CSS (SASS para organizar mejor los estilos)
-- Iconos en formato SVG
-- Botones con efecto hover
-- Diseño estático (no es responsive)
+2) Entrar en la carpeta del proyecto: 
+`cd Header-Gathsession` 
 
----
+3) Instalar las dependencias: 
+`npm install` 
 
-## Ver el proyecto en línea
+4) Ejecutar en modo desarrollo: 
+`npm run dev`
 
-Puedes ver el proyecto funcionando en:  
-[https://fabianserrano1.github.io/header_spa_and_beauty/](https://fabianserrano1.github.io/header_spa_and_beauty/)
+Verlo online: El proyecto está publicado en GitHub Pages: [https://fabianserrano1.github.io/Header-Gathsession/](https://fabianserrano1.github.io/Header-Gathsession/)
 
----
-
-## Cómo probarlo en tu computadora (opcional)
-
-1. Clonar el repositorio:
-
-git clone https://github.com/fabianserrano1/header_spa_and_beauty.git
-
-2. Entrar en la carpeta del proyecto:
-
-cd header_spa_and_beauty
-
-3. Abrir `index.html` en tu navegador para ver el proyecto.
